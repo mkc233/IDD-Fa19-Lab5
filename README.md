@@ -33,6 +33,13 @@ void loop() {
 ```
 2. Jack File
 
-![Jack in the Box](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/Jack%20in%20the%20box.jpg)
+[Knight-Side](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/knight_side.svg)
+[Knight-Face](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/knight_face.svg)
+
 3. Photo
+
+![Jack in the Box](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/Jack%20in%20the%20box.jpg)
+
 4. Video
+
+[Video](https://youtu.be/9Tl0GI9y4Dc)
