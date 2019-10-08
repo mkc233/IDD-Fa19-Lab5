@@ -32,6 +32,7 @@ void loop() {
 }
 ```
 2. Jack File
-[Jack in the Box!](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/Jack%20in%20the%20box.jpg)
+
+![Jack in the Box](https://github.com/mkc233/IDD-Fa19-Lab5/blob/master/Jack%20in%20the%20box.jpg)
 3. Photo
 4. Video
